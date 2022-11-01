@@ -1,4 +1,4 @@
-# directory_to_csv
+# Directory to CSV
 A python program to read all of the files in a Windows directory and return them as as csv.
 
 # Future changes
